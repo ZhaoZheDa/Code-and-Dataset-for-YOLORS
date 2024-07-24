@@ -5,4 +5,4 @@
   The model data loading code and data augmentation code can be seen at YOLORS/utils/datasets.py  
   Strip pooling code can be seen at YOLORS/models/common.py  
 ## Datasets
-  Please download the dataset from 
+  Please download the dataset from：https://pan.baidu.com/s/1m5cvKspxYZa-MeNQBLZ3UQ 提取码：1234
