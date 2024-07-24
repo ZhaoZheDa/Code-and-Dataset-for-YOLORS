@@ -4,6 +4,6 @@
   The YOLORS validation code can be seen at YOLORS/val.py  
   The model data loading code and data augmentation code can be seen at YOLORS/utils/datasets.py  
   Strip pooling code can be seen at YOLORS/models/common.py  
-  Model of Light-YOLORS can be seen at YOLORS/Runs/Light-YOLORS  
+  Model of Light-YOLORS can be seen at YOLORS/Runs/Model-Light-YOLORS  
 ## Datasets
   Please download the dataset from：https://pan.baidu.com/s/1m5cvKspxYZa-MeNQBLZ3UQ 提取码：1234
